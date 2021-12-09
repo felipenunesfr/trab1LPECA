@@ -1,2 +1,2 @@
 # trab1LPECA
-Lista de exercícios da disciplina Linguagens de Programação
+Programa de Agenda Telefônica em Python
